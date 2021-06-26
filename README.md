@@ -1,11 +1,14 @@
-### Hi there 👋
+### Hi there 👋 My name is Naman Sharma. I am an aspriring Data Scientist.
 
+🔭 I’m currently working on Python, Tableau, MySQL and R.
+🌱 I’m currently learning Scala and Hive
+💬 We can interact about Analytics and Football.
+⚡ Fun fact: My name is a palindrome.
 <!--
 **namanshar/namanshar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+🔭 I’m currently working on P
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
