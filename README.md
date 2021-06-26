@@ -1,19 +1,16 @@
-### Hi there 👋 My name is Naman Sharma. I am an aspriring Data Scientist.
+Hi there 👋 My name is Naman Sharma. I am an aspriring Data Scientist.
 
-🔭 I’m currently working on Python, Tableau, MySQL and R.
+🔭 I’m currently working as Data Analyst Intern.
 🌱 I’m currently learning Scala and Hive
 💬 We can interact about Analytics and Football.
 ⚡ Fun fact: My name is a palindrome.
-<!--
-**namanshar/namanshar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-🔭 I’m currently working on P
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<img src="https://github.com/namanshar/namanshar/blob/5fc5e3e3a35f6d62fce4f3a843aa580d5d3e3ef9/images.jpg" width="40" alt="Python">
+&nbsp;
+<img src="https://github.com/namanshar/namanshar/blob/5fc5e3e3a35f6d62fce4f3a843aa580d5d3e3ef9/tableau-logo-tableau-software.jpg" width="40" alt="Tableau">
+&nbsp;
+<img src="https://github.com/namanshar/namanshar/blob/5fc5e3e3a35f6d62fce4f3a843aa580d5d3e3ef9/download.png" width="40" alt="MySQL">
+&nbsp;
+<img src="https://github.com/namanshar/namanshar/blob/5fc5e3e3a35f6d62fce4f3a843aa580d5d3e3ef9/R_(programming_language)-Logo.wine.png" width="40" alt="R">
+<div>
