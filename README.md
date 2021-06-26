@@ -6,11 +6,11 @@ Hi there 👋 My name is Naman Sharma. I am an aspriring Data Scientist.
 ⚡ Fun fact: My name is a palindrome.
 
 <div>
-<img src="https://github.com/namanshar/namanshar/blob/5fc5e3e3a35f6d62fce4f3a843aa580d5d3e3ef9/images.jpg" width="40" alt="Python">
+<img src="https://github.com/namanshar/namanshar/blob/5fc5e3e3a35f6d62fce4f3a843aa580d5d3e3ef9/images.jpg" width="60" alt="Python">
 &nbsp;
-<img src="https://github.com/namanshar/namanshar/blob/5fc5e3e3a35f6d62fce4f3a843aa580d5d3e3ef9/tableau-logo-tableau-software.jpg" width="40" alt="Tableau">
+<img src="https://github.com/namanshar/namanshar/blob/5fc5e3e3a35f6d62fce4f3a843aa580d5d3e3ef9/tableau-logo-tableau-software.jpg" width="60" alt="Tableau">
 &nbsp;
-<img src="https://github.com/namanshar/namanshar/blob/5fc5e3e3a35f6d62fce4f3a843aa580d5d3e3ef9/download.png" width="40" alt="MySQL">
+<img src="https://github.com/namanshar/namanshar/blob/5fc5e3e3a35f6d62fce4f3a843aa580d5d3e3ef9/download.png" width="60" alt="MySQL">
 &nbsp;
-<img src="https://github.com/namanshar/namanshar/blob/5fc5e3e3a35f6d62fce4f3a843aa580d5d3e3ef9/R_(programming_language)-Logo.wine.png" width="40" alt="R">
+<img src="https://github.com/namanshar/namanshar/blob/5fc5e3e3a35f6d62fce4f3a843aa580d5d3e3ef9/R_(programming_language)-Logo.wine.png" width="60" alt="R">
 <div>
