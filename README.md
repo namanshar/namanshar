@@ -1,9 +1,9 @@
 Hi there 👋 My name is Naman Sharma. I am an aspriring Data Scientist.
 
-🔭 I’m currently working as Data Analyst Intern.
-🌱 I’m currently learning Scala and Hive
-💬 We can interact about Analytics and Football.
-⚡ Fun fact: My name is a palindrome.
+- 🔭 I’m currently working as Data Analyst Intern.
+- 🌱 I’m currently learning Scala and Hive
+- 💬 We can interact about Analytics and Football.
+- ⚡ Fun fact: My name is a palindrome.
 
 <div>
 <img src="https://github.com/namanshar/namanshar/blob/5fc5e3e3a35f6d62fce4f3a843aa580d5d3e3ef9/images.jpg" width="60" alt="Python">
