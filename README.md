@@ -1,6 +1,6 @@
-Hi there 👋 My name is Naman Sharma. I am an aspriring Data Scientist.
+Hi there 👋 My name is Naman Sharma. I want to be a Data Scientist.
 
-- 🔭 I’m currently working as Data Analyst Intern.
+- 🔭 I’m currently working as Analytics Consultant.
 - 🌱 I’m currently learning Scala and Hive
 - 💬 We can interact about Analytics and Football.
 - ⚡ Fun fact: My name is a palindrome.
